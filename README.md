@@ -189,7 +189,7 @@ simply output that the bottles meet the quality standards.
 ## Results. 
 
 <p align="center">
-  <img width="640" height="372" src="/Images_/image19.PNG">
+  <img width="640" height="372" src="/Images_/images19.PNG">
 </p>
 
 ## Conclusion.
