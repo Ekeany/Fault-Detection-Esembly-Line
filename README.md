@@ -28,3 +28,6 @@ under filled bottle in the central image and normal bottle located on the right 
 each case the percentage of black pixels in the entire image is calculated and if this value is below a
 certain threshold value of approximately 0.25 then a fault has been detected.
 
+<p align="center">
+  <img width="920" height="613" src="/Images_/image1.PNG">
+</p>
